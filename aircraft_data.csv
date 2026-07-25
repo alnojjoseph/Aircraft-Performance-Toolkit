@@ -1,0 +1,19 @@
+name,mass,wing_surface_area,lift_coefficient_max
+Cessna 172,1157,16.2,1.5
+Diamond DA40,1150,13.5,1.6
+Piper PA-28 Cherokee,1100,15.8,1.5
+Beechcraft Bonanza G36,1650,16.8,1.6
+Pilatus PC-12,4740,25.8,1.8
+Beechcraft King Air 350,6800,28.0,1.9
+Embraer Phenom 300,8150,28.3,2.0
+Boeing 737-800,79000,124.6,2.0
+Airbus A320,78000,122.6,2.39
+Airbus A350-900,280000,443.0,2.4
+Boeing 787-9,254000,325.0,2.3
+Boeing 777-300ER,351500,436.8,2.5
+Airbus A380-800,575000,845.0,2.6
+Lockheed C-130J Hercules,70000,162.1,2.1
+F-16,9000,27.8,1.2
+F/A-18E Super Hornet,14500,46.5,1.4
+Eurofighter Typhoon,11000,50.0,1.4
+Dassault Rafale,10100,45.7,1.5
